@@ -1,0 +1,15 @@
+
+@
+java:S1197	"*Move the array designators [] to the type.(å•ÙÔ
+E
+java:S1197
+"*Move the array designators [] to the type.(óÖğæşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ÂÀË
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½³ñ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ê‹Ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+n
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(§†ÒQ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯åÒşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(¥ê‹Ó
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

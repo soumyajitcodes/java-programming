@@ -1,0 +1,6 @@
+
+J
+java:S1611"/Remove the parentheses around the "x" parameter(ÎèØ’şÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ÎèØ’şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎèØ’şÿÿÿÿ

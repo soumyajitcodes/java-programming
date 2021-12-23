@@ -1,0 +1,14 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İ³Üìúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Û§ËÄıÿÿÿÿ
+N
+java:S6213"8Rename this method to not match a restricted identifier.(Ò²¸²
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÙèÓ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“—«°
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·İ±„øÿÿÿÿ
+M
+java:S6213"8Rename this method to not match a restricted identifier.(ßş×
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ĞØ£è
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(òóáÍ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(‘è±şÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ë­Èüÿÿÿÿ

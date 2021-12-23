@@ -1,0 +1,13 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "s".(ùŠÚèúÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "s".(¨ëÎä
+P
+java:S1854"5Remove this useless assignment to local variable "s".(Ô²¥ þÿÿÿÿ
+O
+java:S1161
+":Add the "@Override" annotation above this method signature(× ¾x
+A
+java:S1481"&Remove this unused "s" local variable.(Ô²¥ þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üîµé

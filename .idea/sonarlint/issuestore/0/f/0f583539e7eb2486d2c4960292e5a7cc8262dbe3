@@ -1,0 +1,8 @@
+
+[	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(•ù’
+P
+java:S1161":Add the "@Override" annotation above this method signature(Á»›ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ûæİœûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÑçŸ›øÿÿÿÿ

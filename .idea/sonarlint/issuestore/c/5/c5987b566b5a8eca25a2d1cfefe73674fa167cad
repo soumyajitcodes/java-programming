@@ -1,0 +1,25 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "D".(ÔÂá•úÿÿÿÿ
+P
+java:S1854
+"5Remove this useless assignment to local variable "C".(æÄŸ˜úÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(î«£†şÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(ˆîİ‰
+@
+java:S1197	"*Move the array designators [] to the type.(ó•ı
+<
+java:S1481	"&Remove this unused "C" local variable.(ó•ı
+A
+java:S1481"&Remove this unused "D" local variable.(ÔÂá•úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Éü¥ ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½¼ü†üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ê‹Ó
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«£†şÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆîİ‰
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó•ı
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÂá•úÿÿÿÿ

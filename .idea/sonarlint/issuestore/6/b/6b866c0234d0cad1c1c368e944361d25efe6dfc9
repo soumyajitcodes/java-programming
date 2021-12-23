@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥¬ÄÍ
+E
+java:S1611"/Remove the parentheses around the "x" parameter(ıííÊ
+V
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(ıííÊ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ıííÊ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(œ²ÿÂ
+E
+java:S1611""/Remove the parentheses around the "x" parameter(ıííÊ
+V
+java:S1612""@Replace this lambda with method reference 'System.out::println'.(ıííÊ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ıííÊ

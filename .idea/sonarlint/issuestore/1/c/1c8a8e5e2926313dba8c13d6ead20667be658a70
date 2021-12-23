@@ -1,0 +1,16 @@
+
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(×Êô
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(§Áİñúÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(èŞÓİ
+r
+java:S1104"WMake studentRoll a static final constant or non-public and provide accessors if needed.(ìŸåùÿÿÿÿ
+r
+java:S1104"WMake studentName a static final constant or non-public and provide accessors if needed.(´Ó«ûÿÿÿÿ
+o
+java:S1104"YMake studentCourse a static final constant or non-public and provide accessors if needed.(ãğû‹
+p
+java:S1104"ZMake studentMarks01 a static final constant or non-public and provide accessors if needed.(±ÚåŠ
+p
+java:S1104"ZMake studentMarks02 a static final constant or non-public and provide accessors if needed.(Ğƒë¾
+p
+java:S1104	"ZMake studentMarks03 a static final constant or non-public and provide accessors if needed.(ÏË«¬

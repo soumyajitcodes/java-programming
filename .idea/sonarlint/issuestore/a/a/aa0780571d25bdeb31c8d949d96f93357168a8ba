@@ -1,0 +1,11 @@
+
+@
+java:S1197	"*Move the array designators [] to the type.(çÁÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ÂÀË
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñŞŠ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Äšù ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ê‹Ó
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¦ø¸Âüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¥ê‹Ó
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ

@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ²£¹ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(žî¿òýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡¶·œ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ü»¥Åúÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(§ˆ·y
+Q
+java:S1854!"6Remove this useless assignment to local variable "c3".(Žˆñ¼ûÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "c2".(ƒßðÛûÿÿÿÿ
+Q
+java:S1854"6Remove this useless assignment to local variable "c1".(æ¿µµùÿÿÿÿ
+B
+java:S1481"'Remove this unused "c1" local variable.(æ¿µµùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+B
+java:S1481"'Remove this unused "c2" local variable.(ƒßðÛûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+B
+java:S1481!"'Remove this unused "c3" local variable.(Žˆñ¼ûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÔøÑ½ùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(È§Šèþÿÿÿÿ

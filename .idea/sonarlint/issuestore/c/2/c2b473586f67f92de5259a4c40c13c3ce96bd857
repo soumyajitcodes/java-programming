@@ -1,0 +1,20 @@
+
+J
+java:S1172"/Remove these unused method parameters "i", "j".(‡¤è‰úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³Á†ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚’„‹
+G
+java:S2387","x" is the name of a field in "Rectangle02".(™Äÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İõİ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(£±Ã¢ÿÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(øØçÔ
+E
+java:S1656
+"/Remove or correct this useless self-assignment.(ÒÀÔ»
+E
+java:S1656	"/Remove or correct this useless self-assignment.(‡‹½
+z
+java:S4165	"dRemove this useless assignment; "length" already holds the assigned value along all execution paths.(‡‹½
+{
+java:S4165
+"eRemove this useless assignment; "breadth" already holds the assigned value along all execution paths.(ÒÀÔ»

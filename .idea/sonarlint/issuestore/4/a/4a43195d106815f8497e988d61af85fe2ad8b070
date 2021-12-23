@@ -1,0 +1,11 @@
+
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(¯›şŠüÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¾†í«
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(··‚•úÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ª™ÿÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ûò‘Ñ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(¹õ½‘
+e
+java:S11924"ODefine a constant instead of duplicating this literal "Perimeter --> " 3 times.(¾†í«
+j
+java:S11923"ODefine a constant instead of duplicating this literal "Area      --> " 3 times.(¯›şŠüÿÿÿÿ

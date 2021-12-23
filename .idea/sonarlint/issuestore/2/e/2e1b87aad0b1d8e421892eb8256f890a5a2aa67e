@@ -1,0 +1,28 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "c".(ì”²æ
+K
+java:S1854"5Remove this useless assignment to local variable "d".(üÞ±Â
+P
+java:S1854"5Remove this useless assignment to local variable "l".(ììÂöúÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "i".(¨Û•¨üÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "s".(½‹ë—ýÿÿÿÿ
+K
+java:S1854"5Remove this useless assignment to local variable "b".(ê…£¶
+<
+java:S1481"&Remove this unused "b" local variable.(ê…£¶
+A
+java:S1481"&Remove this unused "s" local variable.(½‹ë—ýÿÿÿÿ
+A
+java:S1481"&Remove this unused "l" local variable.(ììÂöúÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(•ñš¿øÿÿÿÿ
+<
+java:S1481"&Remove this unused "d" local variable.(üÞ±Â
+<
+java:S1481"&Remove this unused "c" local variable.(ì”²æ
+B
+java:S1481"'Remove this unused "bl" local variable.(³”º¶üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(å©¿õýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
