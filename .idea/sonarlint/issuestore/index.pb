@@ -343,3 +343,44 @@ T
 $src/lambda_expressions/lambda02.java,1\8\18b555df80e4ccdc5b98c8ee5b3d4f28529da9bb
 T
 $src/lambda_expressions/lambda03.java,1\a\1aafc403403d72f4c8dab3f865aee441549575e5
+W
+'src/access_modifiers/mypack1/Demo1.java,7\9\791df37eab3dc28658982bea32d4364d366a4cfe
+W
+'src/access_modifiers/mypack1/Demo2.java,b\7\b7e9ce15376c72b8966dc163e6a1b74d6cfbe04d
+W
+'src/access_modifiers/mypack1/Demo3.java,7\e\7ef4187a08b81be653b027a5a9df6002feee7625
+R
+"src/static_final/finalMethods.java,b\e\be50d2179f9968eb11e775199da645aa616a9d82
+T
+$src/static_final/finalVariables.java,1\d\1d172ed118ca41aeb057879ef4ba34d5ee09bb0b
+L
+src/java_lang/mathClass.java,f\b\fbb73ea7b4059c8405de46fff79658a4c23af9a1
+O
+src/java_lang/objectDemo01.java,9\3\93e2652e0a973849623e6c207a9766dc8c9c171c
+O
+src/java_lang/objectDemo02.java,9\4\9455cd8c2b6df204d815a92ddf61eae4280bc78c
+N
+src/java_lang/reflectDemo.java,f\f\ff73c7bd223c7acd65be3ced04caccf7e20375ed
+T
+$src/static_final/SingletonClass.java,6\a\6aa5a01df30b1037769efe89ffaf9467e2b0ff15
+R
+"src/static_final/staticBlocks.java,6\2\62bb4ac8b78ce73b58acd0780c19f2afdc5ca538
+P
+ src/static_final/staticDemo.java,8\0\803e9d1c551b267168af769ff92dfa0e0b3f2615
+V
+&src/java_lang/stringBufferBuilder.java,2\c\2cc7026b96fbed0a64e5da72b51b2e690eded806
+Q
+!src/static_final/studentRoll.java,3\6\36ed8d906212c789fca3b373948058fb38f8924f
+N
+src/access_modifiers/Test.java,4\c\4ca131099b0bb23c9ca31a48a869bc12704e3a8f
+P
+ src/java_lang/wrapperDemo01.java,7\b\7b491a351539527e0fcf9363f007a8437531ab08
+P
+ src/java_lang/wrapperDemo02.java,7\6\76ac08460b30fe9c0aeb7b1f81de30d64c1003ac
+P
+ src/java_lang/wrapperDemo03.java,f\b\fbb1f5d57c94c61ad25b10b34c58d196c645d855
+K
+src/java_lang/EnumDemo.java,a\3\a354420b783485c1b966fc7b42937747387c62a8
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
